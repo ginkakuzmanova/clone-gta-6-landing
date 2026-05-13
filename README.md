@@ -13,9 +13,6 @@
 
 <h3 align="center">GTA VI Website w/ GSAP</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -84,8 +81,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/jsm_gta_vi_landing.git
-cd jsm_gta_vi_landing
+git clone https://github.com/ginkakuzmanova/clone-gta-6-landing.git
+cd clone-gta-6-landing
 ```
 
 **Installation**
