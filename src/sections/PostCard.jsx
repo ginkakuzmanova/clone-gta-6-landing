@@ -6,11 +6,11 @@ const PostCard = () => {
     const videoRef = useRef(null);
 
     useGSAP(() => {
-        gsap.timeline({
+        const tl = gsap.timeline({
             scrollTrigger: {
                 trigger: '.post-card',
-                start: 'top bottom',
-                end: 'bottom top',
+                start: 'top center',
+                end: 'bottom center',
                 scrub: true,
             }
         })
