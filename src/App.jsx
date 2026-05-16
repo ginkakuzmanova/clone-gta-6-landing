@@ -4,6 +4,8 @@ import {ScrollTrigger} from "gsap/ScrollTrigger";
 import Hero from "./sections/Hero.jsx";
 import VideoJasonDuval from "./sections/VideoJasonDuval.jsx";
 import Jason from "./sections/Jason.jsx";
+import VideoLuciaCamino from "./sections/VideoLuciaCamino.jsx";
+import Lucia from "./sections/Lucia.jsx";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -17,6 +19,8 @@ const App = () => {
             <Hero/>
             <VideoJasonDuval/>
             <Jason/>
+            <VideoLuciaCamino/>
+            <Lucia/>
         </main>
     )
 }
